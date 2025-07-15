@@ -22,12 +22,12 @@ This project uses a real-world dataset, performs data augmentation, builds a cus
    Use `cats_vs_dogs.ipynb` in [Google Colab](https://colab.research.google.com/) for easy execution with GPU.
 
 2. Steps covered:* 
-   ✅ Download and extract dataset  
-   ✅ Create data generators with augmentation  
-   ✅ Build a custom CNN  
-   ✅ Train the model and plot accuracy/loss  
-   ✅ Save the trained model (`.keras` format)  
-   ✅ Upload new images and test predictions
+    Download and extract dataset  
+    Create data generators with augmentation  
+    Build a custom CNN  
+    Train the model and plot accuracy/loss  
+    Save the trained model (`.keras` format)  
+    Upload new images and test predictions
 
 3. Run test predictions:
    Upload a new cat or dog image in Colab, preprocess it, and let the model classify it with confidence.
